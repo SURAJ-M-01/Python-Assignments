@@ -1,0 +1,40 @@
+Git >> Version Control
+
+    v1
+    v2
+    v3
+new v4
+
+
+>> It is distributed (on cloud)
+>> Collaboration
+>> Tracking changes
+>> Recovery
+
+https://git-scm.com/downloads
+
+GitHub
+BigBucket
+GitLabs
+GitPod
+
+>> For 1st time need to configure github in our system 
+git config --global user.name "SURAJ-M-01"
+git config --global user.email "surajmaske294Yahoo.com"
+
+git config --global user color.ui auto
+
+
+Mandatory Commands:
+>> git init
+>> git remote add origin https://github.com/SURAJ-M-01/Python-Assignments.git
+
+
+
+git pull origin main
+git status
+
+git add .
+git status
+git comit -m "Comit Message"
+git push
